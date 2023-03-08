@@ -1,1 +1,1 @@
-first project
+The  project is about shell scripting
